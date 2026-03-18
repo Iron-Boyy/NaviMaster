@@ -3,7 +3,7 @@
 This is the official repo for "NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks".
 <div align="center">
 
-[\[🏠Homepage\]](https://iron-boyy.github.io/navimaster/) | [\[💻Code\]](https://iron-boyy.github.io/navimaster/) | [\[📝Paper\]](https://arxiv.org/abs/2508.02046)  | [\[🤗Models\]](https://huggingface.co/Thegun/NaviMaster-7B) | [\[🤗Data\]](https://huggingface.co/datasets/Thegun/NaviMaster-Dataset-2w)
+[\[🏠Homepage\]](https://iron-boyy.github.io/navimaster-page/) | [\[💻Code\]](https://github.com/Iron-Boyy/NaviMaster) | [\[📝Paper\]](https://arxiv.org/abs/2508.02046)  | [\[🤗Models\]](https://huggingface.co/Thegun/NaviMaster-7B) | [\[🤗Data\]](https://huggingface.co/datasets/Thegun/NaviMaster-Dataset-2w)
 
 </div>
 
