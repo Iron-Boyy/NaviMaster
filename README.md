@@ -1,6 +1,6 @@
 # NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks
 
-This is the official repo for "NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks".
+This is the official repo for the ACL 2026 Main Conference paper [NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks](https://arxiv.org/abs/2508.02046).
 <div align="center">
 
 [\[🏠Homepage\]](https://iron-boyy.github.io/navimaster-page/) | [\[💻Code\]](https://github.com/Iron-Boyy/NaviMaster) | [\[📝Paper\]](https://arxiv.org/abs/2508.02046)  | [\[🤗Models\]](https://huggingface.co/Thegun/NaviMaster-7B) | [\[🤗Data\]](https://huggingface.co/datasets/Thegun/NaviMaster-Dataset-2w)
@@ -8,7 +8,7 @@ This is the official repo for "NaviMaster: Learning a Unified Policy for GUI and
 </div>
 
 ## News
-
+- [2026/04/07] NaviMaster is accepted to ACL 2026 Main Conference!
 - [2026/03/18] We released the code and scripts.
 - [2026/01/14] We released [Dataset](https://huggingface.co/datasets/Thegun/NaviMaster-Dataset-2w)!
 - [2025/11/08] We released [Model](https://huggingface.co/Thegun/NaviMaster-7B)!
